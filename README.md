@@ -1,4 +1,5 @@
 # MineSweeper
+![Minesweeper](https://user-images.githubusercontent.com/60982572/113022504-ae25f100-9152-11eb-948a-70c0c063c78f.png)
 In the game of Minesweeper, a player searches for hidden bombs on a rectangular grid. The game board is represented by a grid of booleans 
 marking bomb locations. A grid value is true if there is a bomb at that location, false otherwise. A user can click on any cell they choose. The game is lost when the user clicks on a cell containing a bomb. 
 The game is won when all cells not containing bombs have been opened and the only remaining cells are those containing bombs.In this 
